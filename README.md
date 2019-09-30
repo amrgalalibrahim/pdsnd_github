@@ -1,9 +1,11 @@
 ### Date created
-Project submission from google drive: 'https://docs.google.com/document/d/1lL_05S4_BNC7Q4NrZm8C_lLx5kIX_YYuFKOr5kyJevM/edit#'
+Project submission from google drive:
+https://docs.google.com/document/d/1lL_05S4_BNC7Q4NrZm8C_lLx5kIX_YYuFKOr5kyJevM/edit#
+
 September-28-2019
 
 ## Project Title
-Project3 Git Commands Documentation
+Project3 Git Commands Documentation bikshare_Amr_Galal.py
 
 
 ### Description

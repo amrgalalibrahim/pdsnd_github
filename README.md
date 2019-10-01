@@ -10,7 +10,7 @@ bikeshare_Amr_Galal.py
 
 
 ### Description
-use of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
+In this project, usage of Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington.
 
 ### Files used
 The required files for running this program are:

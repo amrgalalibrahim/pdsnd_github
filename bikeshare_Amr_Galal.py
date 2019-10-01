@@ -13,7 +13,7 @@ months = ('january', 'february', 'march', 'april', 'may', 'june')
 
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
-
+#refactoringchanges
 
 def choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
@@ -342,5 +342,6 @@ def statistics(dispatcher):
         for f in dispatcher['noFilter']:
             print(f(city_data))
         display_data_all(city_data)
-
+print(months)
+print(weekdays)
 statistics(dispatcher)

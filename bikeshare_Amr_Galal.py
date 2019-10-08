@@ -342,6 +342,6 @@ def statistics(dispatcher):
         for f in dispatcher['noFilter']:
             print(f(city_data))
         display_data_all(city_data)
-print(months)
+print(city_data)
 print(weekdays)
 statistics(dispatcher)
